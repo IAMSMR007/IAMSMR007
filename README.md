@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Web Development & Machine Learning**
 
-- 📫 How to reach me **mohammad.sameer@myyahoo.com**
+- 📫 How to reach me   [Discord Profile](https://discordapp.com/users/1302135024380022854)
+
+
 
 
 <p align="left">
