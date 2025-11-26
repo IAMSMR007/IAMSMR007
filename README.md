@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
 <h3 align="center">I’m passionate about programming and always learning — not an expert yet, but enjoying every bug-filled step of the journey.</h3>
 
-- 🔭 I’m currently working on [VirtualChemLab](https://github.com/IAMSMR007/VirtualChemLab)
+- 🔭 I’m currently working on bunch of personal projects
 
 - 🌱 I’m currently learning **Web Development & Machine Learning**
 
